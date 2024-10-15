@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on AI projects and machine learning applications.
+- 🌱 I’m currently learning advanced algorithms and cloud technologies.
+- 👯 I’m looking to collaborate on projects involving machine learning and data analysis.
+- 🤔 I’m looking for help with deploying AI models in production environments.
+- 💬 Ask me about Python, AI, and cloud computing!
+- 📫 How to reach me: [iswag066@gmail.com](mailto:iswag066@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new technologies and their impact on businesses!
